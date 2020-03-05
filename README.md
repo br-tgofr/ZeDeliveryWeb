@@ -1,4 +1,4 @@
-# Ze Delivery
+# e-commerce de bebidas Ze Delivery
 
 ## Instalação
 
